@@ -1,6 +1,7 @@
 # user_api
 
 ## getUserList
+```
 [
     {
         "id": 1,
@@ -21,6 +22,7 @@
         "memo": "memo2"
     }
 ]
+```
 
 
 ## usage

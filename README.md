@@ -25,7 +25,7 @@
 ```
 
 
-## usage
+## environment
 openjdk 11,<br>
 postgreSQL 14.1,<br>
 mybatis 2.2.2,<br>
